@@ -12,7 +12,7 @@ Our group studies the roles and regulation of alternative RNAs in the nervous sy
 
 We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.edu/genetics/) at the University of Connecticut School of Medicine in Farmington, CT. 
 
-Getting started
+Enter a world of discovery!
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
