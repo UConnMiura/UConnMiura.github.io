@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Miura lab"
+title: "Welcome to Miura lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Miura lab
-======
 Our group studies the roles and regulation of alternative RNAs in the nervous system.
 
-We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.edu/genetics/)at the University of Connecticut School of Medicine in Farmington, CT. 
+We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.edu/genetics/) at the University of Connecticut School of Medicine in Farmington, CT. 
 
 Getting started
 ======
