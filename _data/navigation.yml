@@ -11,7 +11,10 @@ main:
   - title: "CV"
     #url: /cv/
     url: /files/Miura_CV.pdf
-    
+
+  - title: "Lab Pictures"
+    url: /labpics/
+
 #  - title: "Talks"
 #    url: /talks/    
 
