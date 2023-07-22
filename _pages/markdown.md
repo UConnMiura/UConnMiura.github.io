@@ -32,13 +32,16 @@ redirect_from:
 
 ## Lab Alumni
 
+![image of success](/images/success.jpeg){: .align-center width = "300px"}
+### So proud of our former trainees!
+
 ### Former Grad Students and Postdocs
 * Dr. Bong Min Bae
   * UNR Molecular Biosciences PhD (2016-2021)
   * currently postdoc at Whipple Lab (Harvard).
 * Dr. David Knupp
   * Molecular Biosciences PhD (2016-2021)
-  * currently Scientist at Invitae (Boulder, Colorado).
+  * currently Scientist at IDT (Boulder, Colorado).
 * Winston Cuddleston
   * UNR Molecular Biosciences MSc (2018-2020)
   * currently PhD student at Icahn School of Medicine at Mt. Sinai 
