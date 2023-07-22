@@ -21,10 +21,9 @@ redirect_from:
 * BSc Queen’s University (2002)
 
 ---
+<img src="/images/zhiping.jpg" alt="zhiping head shot" style="float: right; width: 200px;">
 
 ### Zhiping Zhang, PhD
-
-<img src="/images/zhiping.jpg" alt="zhiping head shot" style="float: right; width: 200px;">
 
 * Assistant Professor in Residence, UConn Health (2022- )
 * Research Assistant Professor, UNR (2020 - 2022)
@@ -33,8 +32,10 @@ redirect_from:
 
 ---
 
-### Heather Glatt-Deeley, BA
+
 <img src="/images/bio-photo.jpg" alt="heater head shot" style="float: right; width: 200px;">
+
+### Heather Glatt-Deeley, BA
 
 * Research Assistant III, Miura lab (2023- )
 * Research Assistant, Pinter lab (2017 - 2023)
