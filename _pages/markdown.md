@@ -29,6 +29,9 @@ redirect_from:
 * Research Assistant Professor, UNR (2020 - 2022)
 * Postdoctoral Researcher, UNR (2016 - 2020)
 * PhD, IBP, Chinese Academy of Sciences
+* 
+* 
+* 
 
 ---
 
@@ -54,8 +57,10 @@ redirect_from:
 ![image of success](/images/success.jpg){: .align-right width = "300px"}
 
 ---
+---
+---
 
-### So proud of our former trainees!
+<p style="text-align: center;">So proud of our former trainees!</p>
 ---
 
 ### Former Grad Students and Postdocs
