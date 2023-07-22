@@ -100,7 +100,9 @@ redirect_from:
   * UNR MMI undergrad (2014 - 2017)
 
 
-![image of miura lab](/images/min_Defense copy.jpeg){: .align-center width = "300px"}
+![image of Min's defense party](/images/min_Defense_copy.jpeg){: .align-center width = "300px"}
+
+
 
 
 
