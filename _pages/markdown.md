@@ -42,7 +42,10 @@ redirect_from:
 
 ![image of success](/images/success.jpg){: .align-right width = "300px"}
 
+---
+
 ### So proud of our former trainees!
+---
 
 ### Former Grad Students and Postdocs
 * Dr. Bong Min Bae
@@ -56,7 +59,7 @@ redirect_from:
   * currently PhD student at Icahn School of Medicine at Mt. Sinai 
 * Dr. Hannah Gruner
   * UNR Molecular Biosciences PhD (2014-2018).
-  * currently Post-doctoral fellow, Brad Davidson lab, Swathmore College
+  * currently postdoc in Davidson lab, Swathmore College
 * Dr. Daphne Cooper
   * Postdoctoral Researcher (2016 - 2018)
   * Currently Sales Consultant at 10X Genomics
