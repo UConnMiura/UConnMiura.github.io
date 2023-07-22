@@ -9,18 +9,22 @@ redirect_from:
 ## Current Lab Members  
 
 
-![image of pedro](/images/pedro.jpg){: .align-right width = "300px"}
+
+
 ### Pedro Miura, PhD (PI)
+
+<img src="/images/pedro.jpg" alt="Pedro head shot" style="float: right; width: 200px;">
+
 * Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
-* Associate Professor, UNR, Dept. Biology (2014-2022)
-* Assistant Professor, UNR, Dept. Biology (2014-2020)
+* Asst/Assoc Professor, UNR, Dept. of Biology (2014-2022)
 * Postdoc, Memorial Sloan-Kettering Cancer Center, (2010-2014)
 * PhD University of Ottawa (2010)
 * BSc Queen’s University (2002)
 
-
-![image of zhiping](/images/zhiping.jpg){: .align-right width = "300px"}
 ### Zhiping Zhang, PhD
+
+<img src="/images/zhiping.jpg" alt="zhiping head shot" style="float: right; width: 200px;">
+
 * Assistant Professor in Residence, UConn Health (2022- )
 * Research Assistant Professor, UNR (2020 - 2022)
 * Postdoctoral Researcher, UNR (2016 - 2020)
@@ -36,7 +40,7 @@ redirect_from:
 
 ## Lab Alumni
 
-![image of success](/images/success.jpeg){: .align-right width = "300px"}
+![image of success](/images/success.jpg){: .align-right width = "300px"}
 
 ### So proud of our former trainees!
 
