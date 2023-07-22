@@ -36,7 +36,8 @@ redirect_from:
 
 ## Lab Alumni
 
-![image of success](/images/success.jpeg){: .align-center width = "300px"}
+![image of success](/images/success.jpeg){: .align-right width = "300px"}
+
 ### So proud of our former trainees!
 
 ### Former Grad Students and Postdocs
