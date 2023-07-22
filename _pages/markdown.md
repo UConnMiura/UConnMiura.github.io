@@ -1,12 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "People"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-## People
+## Current Lab Members
 
 ### Pedro Miura, PhD (PI)
 * Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
@@ -26,6 +26,9 @@ redirect_from:
 * Research Assistant III, Miura lab (2023- )
 * Research Assistant, Pinter lab (2017 - 2023)
 * BA in Molecular Biology and Biology, Clark University
+
+### Steven Chen
+* UConn Undergraduate Researcher (2023- )
 
 ## Lab Alumni
 
