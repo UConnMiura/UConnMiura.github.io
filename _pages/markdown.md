@@ -9,7 +9,7 @@ redirect_from:
 ## Current Lab Members  
 
 
-![image of pedro](/images/pedro.jpg){: .align-right width = "150px"}
+![image of pedro](/images/pedro.jpg){: .align-right width = "300px"}
 ### Pedro Miura, PhD (PI)
 * Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
 * Associate Professor, UNR, Dept. Biology (2014-2022)
@@ -19,7 +19,7 @@ redirect_from:
 * BSc Queen’s University (2002)
 
 
-![image of zhiping](/images/zhiping.jpg){: .align-right width = "150px"}
+![image of zhiping](/images/zhiping.jpg){: .align-right width = "300px"}
 ### Zhiping Zhang, PhD
 * Assistant Professor in Residence, UConn Health (2022- )
 * Research Assistant Professor, UNR (2020 - 2022)
