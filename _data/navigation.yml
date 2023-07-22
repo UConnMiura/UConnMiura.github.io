@@ -1,9 +1,17 @@
 # main links links
 main:
+
+  - title: "People"
+    url: /markdown/
+
   - title: "Publications"
     #url: /publications/
     url: https://scholar.google.com/citations?user=exp-VHgAAAAJ&hl=en
 
+  - title: "CV"
+    #url: /cv/
+    url: /files/Miura_CV.pdf
+    
   - title: "Talks"
     url: /talks/    
 
@@ -16,9 +24,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    #url: /cv/
-    url: /files/Miura_CV.pdf
+
     
-  - title: "Guide"
-    url: /markdown/
+
