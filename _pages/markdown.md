@@ -9,23 +9,23 @@ redirect_from:
 ## People
 
 ### Pedro Miura, PhD (PI)
-Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
-Associate Professor, UNR, Dept. Biology (2014-2022)
-Assistant Professor, UNR, Dept. Biology (2014-2020)
-Postdoc, MSKCC, (2010-2014)
-PhD University of Ottawa (2010)
-BSc Queen’s University (2002)
+* Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
+* Associate Professor, UNR, Dept. Biology (2014-2022)
+* Assistant Professor, UNR, Dept. Biology (2014-2020)
+* Postdoc, Memorial Sloan-Kettering Cancer Center, (2010-2014)
+* PhD University of Ottawa (2010)
+* BSc Queen’s University (2002)
 
 ### Zhiping Zhang, PhD
-Assistant Professor in Residence, UConn Health (2022- )
-Research Assistant Professor, UNR (2020 - 2022)
-Postdoctoral Researcher, UNR (2016 - 2020)
-PhD, IBP, Chinese Academy of Sciences
+* Assistant Professor in Residence, UConn Health (2022- )
+* Research Assistant Professor, UNR (2020 - 2022)
+* Postdoctoral Researcher, UNR (2016 - 2020)
+* PhD, IBP, Chinese Academy of Sciences
 
 ### Heather Glatt-Deeley, BA
-Research Assistant III, Miura lab (2023- )
-Research Assistant, Pinter lab (2017 - 2023)
-BA in Molecular Biology and Biology, Clark University
+* Research Assistant III, Miura lab (2023- )
+* Research Assistant, Pinter lab (2017 - 2023)
+* BA in Molecular Biology and Biology, Clark University
 
 
 
