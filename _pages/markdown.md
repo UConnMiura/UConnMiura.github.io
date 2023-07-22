@@ -100,6 +100,8 @@ redirect_from:
   * UNR MMI undergrad (2014 - 2017)
 
 
+![image of miura lab](/images/min_Defense copy.jpeg){: .align-center width = "300px"}
+
 
 
 ## Locations of key files/directories

@@ -10,13 +10,17 @@ redirect_from:
 
 Our group studies the roles and regulation of alternative RNAs in the nervous system.
 
-We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.edu/genetics/) at the University of Connecticut School of Medicine in Farmington, CT. 
+We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.edu/genetics/) at the University of Connecticut School of Medicine in Farmington, CT.   
 
+
+---
 
 ![image of miura lab](/images/UConn_research_Miura.jpg){: .align-right width = "300px"}
 
+---
 
-What do we work on?
+What do we work on?  
+
 ======
 
 The Miura lab studies RNA. How is it made? How are the pieces of mRNAs put together? What are the roles of alternative exons and Untranslated Regions (UTRs) in gene expression?
