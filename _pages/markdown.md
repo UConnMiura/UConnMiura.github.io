@@ -97,7 +97,9 @@ redirect_from:
   * Biology Undergraduate volunteer (2016-2017)
 
 * Vicente Gapuz
-  * UNR MMI undergrad (2014 - 2017)
+  * UNR MMI undergrad (2014 - 2017)  
+
+___
 
 
 ![image of Min's defense party](/images/min_Defense_copy.jpeg){: .align-center width = "300px"}
