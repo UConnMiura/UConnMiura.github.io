@@ -20,9 +20,7 @@ redirect_from:
 * PhD University of Ottawa (2010)
 * BSc Queen’s University (2002)
 
--
--
--
+---
 
 ### Zhiping Zhang, PhD
 
@@ -33,13 +31,19 @@ redirect_from:
 * Postdoctoral Researcher, UNR (2016 - 2020)
 * PhD, IBP, Chinese Academy of Sciences
 
+---
+
 ### Heather Glatt-Deeley, BA
 * Research Assistant III, Miura lab (2023- )
 * Research Assistant, Pinter lab (2017 - 2023)
 * BA in Molecular Biology and Biology, Clark University
 
+---
+
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
+
+---
 
 ## Lab Alumni
 
