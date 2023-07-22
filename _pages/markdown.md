@@ -8,12 +8,11 @@ redirect_from:
 ---
 ## Current Lab Members  
 
-
-
-
-### Pedro Miura, PhD (PI)
+---
 
 <img src="/images/pedro.jpg" alt="Pedro head shot" style="float: right; width: 200px;">
+
+### Pedro Miura, PhD (PI)
 
 * Associate Professor, UConn Health, Dept. of Genetics and Genome Sciences (2022- )
 * Asst/Assoc Professor, UNR, Dept. of Biology (2014-2022)
