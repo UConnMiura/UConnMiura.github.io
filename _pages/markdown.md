@@ -34,11 +34,14 @@ redirect_from:
 ---
 
 ### Heather Glatt-Deeley, BA
+<img src="/images/bio-photo.jpg" alt="heater head shot" style="float: right; width: 200px;">
+
 * Research Assistant III, Miura lab (2023- )
 * Research Assistant, Pinter lab (2017 - 2023)
 * BA in Molecular Biology and Biology, Clark University
 
 ---
+
 
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
