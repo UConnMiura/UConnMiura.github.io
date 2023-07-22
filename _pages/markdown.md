@@ -44,6 +44,8 @@ redirect_from:
 * Research Assistant, Pinter lab (2017 - 2023)
 * BA in Molecular Biology and Biology, Clark University
 
+<br>
+<br>
 ---
 
 
@@ -59,6 +61,8 @@ redirect_from:
 ---
 ---
 ---
+<br>
+<br>
 
 <p style="text-align: center;">So proud of our former trainees!</p>
 ---
