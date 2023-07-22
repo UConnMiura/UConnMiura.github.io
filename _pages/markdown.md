@@ -29,9 +29,10 @@ redirect_from:
 * Research Assistant Professor, UNR (2020 - 2022)
 * Postdoctoral Researcher, UNR (2016 - 2020)
 * PhD, IBP, Chinese Academy of Sciences
-* 
-* 
-* 
+<br>
+<br>
+<br>
+<br>
 
 ---
 
