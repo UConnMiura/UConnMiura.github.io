@@ -20,6 +20,10 @@ redirect_from:
 * PhD University of Ottawa (2010)
 * BSc Queen’s University (2002)
 
+-
+-
+-
+
 ### Zhiping Zhang, PhD
 
 <img src="/images/zhiping.jpg" alt="zhiping head shot" style="float: right; width: 200px;">
