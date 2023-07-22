@@ -27,6 +27,76 @@ redirect_from:
 * Research Assistant, Pinter lab (2017 - 2023)
 * BA in Molecular Biology and Biology, Clark University
 
+## Lab Alumni
+
+### Former Grad Students and Postdocs
+* Dr. Bong Min Bae
+  * UNR Molecular Biosciences PhD (2016-2021)
+  * currently postdoc at Whipple Lab (Harvard).
+* Dr. David Knupp
+  * Molecular Biosciences PhD (2016-2021)
+  * currently Scientist at Invitae (Boulder, Colorado).
+* Winston Cuddleston
+  * UNR Molecular Biosciences MSc (2018-2020)
+  * currently PhD student at Icahn School of Medicine at Mt. Sinai 
+* Dr. Hannah Gruner
+  * UNR Molecular Biosciences PhD (2014-2018).
+  * currently Post-doctoral fellow, Brad Davidson lab, Swathmore College
+* Dr. Daphne Cooper
+  * Postdoctoral Researcher (2016 - 2018)
+  * Currently Sales Consultant at 10X Genomics
+* Ryan Peterson
+  * UNR Neuroscience MSc. (2015-2017)
+  * currently scientist at Charles River Laboratories, Reno, NV
+* Dr. Kelly Phelps
+  * Postdoctoral Researcher (2015)
+
+### Former Undergrads and technicians
+* Maeve Nave
+  * Scientific Technician and lab manager (2021-2022)
+
+* Jacob Countryman
+  * UNR undergraduate student (2021-2022)
+
+* Bryan Urrieta
+  * UNR undergraduate student (2021-2022)
+
+* Clarissa Stout
+  * UNR undergraduate student (2019-2022)
+
+* Sydnie Walters
+  * UNR Biochemistry undergraduate researcher (2018-2021)
+
+* Kayla Andrada
+  * UNR Biology undergraduate researcher (2018-2020)
+
+* Sharab Ahmad
+  * Biochemistry undergraduate researcher (2017-2018)
+
+* Matt Bauer
+  * High School Student. Davidson Academy (2014-2018)
+
+* Henry Ng
+  * UNR Biology Undergraduate Researcher (2015 - 2018)
+
+* Kevin So
+  * Undergrad Researcher and Scientific Technician (2014- 2018)
+  * Currently PhD student in Cigall Kadoch lab (Harvard)
+
+* Dr. Mariela Cortés López
+  * Undergraduate Researcher and Scientific Technician (2015- 2017).
+  * Currently postdoc at NY Genome Center.
+
+* Dr. Maebh Lynch
+  * International Undergraduate Research Program (IURP) (2015-2016)
+
+* Justin Brasher
+  * Biology Undergraduate volunteer (2016-2017)
+
+* Vicente Gapuz
+  * UNR MMI undergrad (2014 - 2017)
+
+
 
 
 ## Locations of key files/directories
