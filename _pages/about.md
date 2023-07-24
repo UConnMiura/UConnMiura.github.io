@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Miura lab"
-excerpt: "About me"
+excerpt: "About the lab"
 author_profile: true
 redirect_from: 
   - /about/
