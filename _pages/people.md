@@ -37,7 +37,7 @@ redirect_from:
 ---
 
 
-<img src="/images/bio-photo.jpg" alt="heater head shot" style="float: right; width: 200px;">
+<img src="/images/heather.jpg" alt="heather head shot" style="float: right; width: 200px;">
 
 ### Heather Glatt-Deeley, BA
 
