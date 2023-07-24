@@ -54,6 +54,10 @@ redirect_from:
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
 
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Lab Alumni
