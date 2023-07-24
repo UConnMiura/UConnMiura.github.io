@@ -94,6 +94,7 @@ redirect_from:
 ### Former Undergrads and technicians
 * Maeve Nave
   * Scientific Technician and lab manager (2021-2022)
+  * Currently PhD student at UNR.
 
 * Jacob Countryman
   * UNR undergraduate student (2021-2022)

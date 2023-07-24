@@ -8,15 +8,16 @@ main:
     #url: /publications/
     url: https://scholar.google.com/citations?user=exp-VHgAAAAJ&hl=en
 
-  - title: "CV"
-    #url: /cv/
-    url: /files/Miura_CV.pdf
-
   - title: "Lab Pictures"
     url: /labpics/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "About the lab"
+    url: /lab/    
+
+  - title: "CV"
+    #url: /cv/
+    url: /files/Miura_CV.pdf
+    
 
 #  - title: "Teaching"
 #    url: /teaching/    
