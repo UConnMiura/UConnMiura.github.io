@@ -49,7 +49,7 @@ redirect_from:
 <br>
 ---
 
----
+
 <img src="/images/bio-photo-2.jpg" alt="Steven head shot" style="float: right; width: 200px;">
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
@@ -71,9 +71,11 @@ redirect_from:
 <br>
 <br>
 
-<p style="text-align: center;">So proud of our former trainees!</p>
 ---
 
+<p style="text-align: center;">So proud of our former trainees!</p>
+---
+<br>
 ### Former Grad Students and Postdocs
 * Dr. Bong Min Bae
   * UNR Molecular Biosciences PhD (2016-2021)
