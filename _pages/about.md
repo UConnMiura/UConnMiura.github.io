@@ -23,7 +23,7 @@ We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.
 <br>
 <br>
 
-What do we work on?  
+**What do we work on?**  
 
 The Miura lab studies RNA. How is it made? How are the pieces of mRNAs put together? What are the roles of alternative exons and Untranslated Regions (UTRs) in gene expression?
 
