@@ -49,7 +49,8 @@ redirect_from:
 <br>
 ---
 
-
+---
+<img src="/images/bio-photo-2.jpg" alt="Steven head shot" style="float: right; width: 200px;">
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
 
