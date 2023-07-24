@@ -15,7 +15,7 @@ We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.
 
 ---
 
-![image of research areas](/images/UConn_research_Miura.jpg){: .align-right width = "300px"}
+![image of research areas](/images/UConn_research_Miura.jpg){: .align-right width = "150px"}
 
 ---
 
