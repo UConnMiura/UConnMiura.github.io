@@ -11,6 +11,8 @@ redirect_from:
 
 
 
+### 2023: Summer lab lunch!
+![image of cheescake factory lunch](/images/cheesecake.jpg){: .align-center width = "300px"}
 
 
 ### 2021: Min’s defense celebration.
