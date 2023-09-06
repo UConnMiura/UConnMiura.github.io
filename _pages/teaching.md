@@ -8,4 +8,4 @@ redirect_from:
 ---
 # Here you can find links to Miura lab github tutorials for sequencing analysis
 
-* Here is the link to Lecture 2: [https://github.com/UConnMiura/comp_camp/blob/main/lectures/lecture_2.Rmd](https://github.com/UConnMiura/comp_camp/blob/main/lectures/lecture_2.Rmd) 
+* Here is the link to [Lecture 2](https://uconnmiura.github.io/comp_camp/lectures/lecture_2.html), the intro to short read RNA-seq
