@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Check out our latest paper in Nature Communications:
+[Coordination of alternative splicing and alternative polyadenylation revealed by targeted long read sequencing](https://www.nature.com/articles/s41467-023-41207-8)
 
 Our group studies the roles and regulation of alternative RNAs in the nervous system.
 
