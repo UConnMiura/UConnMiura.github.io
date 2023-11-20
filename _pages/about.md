@@ -21,6 +21,9 @@ We are part of the [Dept. of Genetics and Genome Sciences](https://health.uconn.
 
 ---
 
+![image of isoforms](/images/isoforms.jpg){: .align-right width = "150px"}
+
+---
 ======
 <br>
 <br>
