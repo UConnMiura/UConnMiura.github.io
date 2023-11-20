@@ -50,7 +50,7 @@ redirect_from:
 ---
 
 
-<img src="/images/bio-photo-2.jpg" alt="Steven head shot" style="float: right; width: 200px;">
+<img src="/images/Steven_Chen.jpeg" alt="Steven head shot" style="float: right; width: 200px;">
 ### Steven Chen
 * UConn Undergraduate Researcher (2023- )
 
@@ -59,7 +59,17 @@ redirect_from:
 <br>
 <br>
 ---
+<img src="/images/Eric_Elliot.jpeg" alt="Eric Elliot head shot" style="float: right; width: 200px;">
+### Eric Elliot
+* UConn Undergraduate Researcher (2023- )
 
+<br>
+<br>
+<br>
+<br>
+---
+
+---
 ## Lab Alumni
 
 ![image of success](/images/success.jpg){: .align-right width = "300px"}

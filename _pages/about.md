@@ -33,9 +33,8 @@ We use various model systems, including mammalian cells that can differentiate i
 
 **What's new?**
 
-We moved from Nevada to Connecticut in 2022. We are searching for our first grad student in CT! Contact Dr. Miura if you are interested in a rotation! 
 
-We accept students in the [Genetics and Developmental Biology area of concentration](https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/genetics-and-developmental-biology-area-of-concentration/)
+We accept students in the [Genetics and Developmental Biology area of concentration](https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/genetics-and-developmental-biology-area-of-concentration/). Please contact Dr. Miura if you are interested in a rotating in the lab! 
 
 
 
