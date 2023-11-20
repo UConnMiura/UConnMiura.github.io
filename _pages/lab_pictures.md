@@ -8,8 +8,12 @@ redirect_from:
 ---
 ## Miura lab through the years  
 
+### 2023: Yale RNA Center Annual Retreat
+![image of Yale Retreat](/images/Yale_RNA_retreat_23.jpg){: .align-center width = "300px"}
 
-
+### 2023: Harvard RNA Biology and Disease Symposium
+Visiting former trainee Kevin So in a room full of boxes
+![image of boxes](/images/Harvard_23.jpg){: .align-center width = "300px"}
 
 ### 2023: July lab lunch!
 ![image of cheescake factory lunch](/images/cheesecake.jpg){: .align-center width = "300px"}
