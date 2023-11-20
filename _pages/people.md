@@ -60,11 +60,31 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
 ---
 <img src="/images/Eric_Elliot.jpeg" alt="Eric Elliot head shot" style="float: right; width: 200px;">
 ### Eric Elliot
 * UConn Undergraduate Researcher (2023- )
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---
+
+<img src="/images/bio-photo-2.jpg" alt="biophoto" style="float: right; width: 200px;">
+### Allison Andrade
+* Genetics and Genome Sciences Rotation Student (Fall 2023 )
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
