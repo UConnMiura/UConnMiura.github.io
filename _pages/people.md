@@ -77,7 +77,7 @@ redirect_from:
 
 <img src="/images/bio-photo-2.jpg" alt="biophoto" style="float: right; width: 200px;">
 ### Allison Andrade
-* Genetics and Genome Sciences Rotation Student (Fall 2023 )
+* Genetics and Genome Sciences PhD Student (2023-)
 
 <br>
 <br>
@@ -87,6 +87,19 @@ redirect_from:
 <br>
 
 ---
+
+<img src="/images/bio-photo-2.jpg" alt="biophoto" style="float: right; width: 200px;">
+### Anna Lassota
+* Postdoc (2025-)
+* PhD University of Birmingham, Matthias Soller lab (2025)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ---
 ## Lab Alumni
